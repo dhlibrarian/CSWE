@@ -1,0 +1,153 @@
+Topic 1: mental health + HIV + outcomes for birthmothers + and child welfare + Economic + social and cultural capital + Physical discipline + positive youth/emerging adulthood development + racial disparities and equity in education (K-12) + LGBT+ Sexuality
+Coherence Score: 0.5658
+
+Topic 2: collective action + and political capital acquisition + Advanced Statistical Methods and Geographic Information Systems (GIS) + migration + parental roles + dimensions + African American health and well-being + nonprofit capacity building + mental health outcomes in minorities (especially hispanics) + cross cultural issues
+Coherence Score: 0.3869
+
+Topic 3: intimate partner violence + religion + behavioral health + critical race theory + indigenous perspectives + urban education policy + Du Boisian sociology + online social support among older adults + health and well-being of women and Black + culture
+Coherence Score: 0.3701
+
+Topic 4: risk assessment + culture + Intersectionality + aspirations + family preservation + Racial and sexual minority older adults’ physical and mental health in the US and Latin America + and child welfare innovations + Adverse Childhood Experiences (ACEs) + and the history + 3) cognitive functioning
+Coherence Score: 0.3180
+
+Topic 5: Population studies focusing on racial and ethnic disparities in health and well-being with an emphasis on Mexican American children and families + Adolescents and young adult cancer survivors + and spirituality + depression + sickle cell disease + biopsychosocial variables + Inter-professional education for healthcare providers + and applications to social welfare policy development. Areas of practice specialization: policy analysis and community practice + social isolation + community-based interventions
+Coherence Score: 0.3410
+
+Topic 6: multidisciplinary management education + and integrated behavioral health. + Digital health + applied statistics and data visualization strategies + immigrants + Latinx college students + sexual risk behavior + Mobile Technology (mHealth) and Mental Health + social determinants of youth health and mental health + Adolescents and Young Adults
+Coherence Score: 0.5238
+
+Topic 7: mental health + Program Evaluation + Program development and evaluation + anti-black racism + Health/Wellbeing of Black/African American & Latinx Populations + health risk behaviors (tobacco use + child development + acculturation + School and Community-based Adolescent Mental Health Promotion Interventions + immigration and critical pedagogy
+Coherence Score: 0.4833
+
+Topic 8: social determinants of health + international social work + juvenile justice + maternal and child health + risk assessment + mental health disparities + program evaluation/employment and training programs + urban health + bias-based bullying and victimization + and social and racial inequality
+Coherence Score: 0.4535
+
+Topic 9: equity + diversity + protection + child advocacy + and welfare + and trauma and trauma-informed care + people with HIV + equity and inclusion + leadership development + justice and corrections
+Coherence Score: 0.5064
+
+Topic 10: community violence + community development policy and practice + sexual health and well-being among this population + Child welfare + social justice + Government and Nonprofit Collaboration in Service Delivery + Implementation Science + outcome prediction + HIV/STI risk + refugees and other immigrant populations
+Coherence Score: 0.5189
+
+Topic 11: Social Influences + social network + trauma and resiliency + Sexual and Reproductive Health and Justice + social and economic development policy + Multimedia-based Intervention Development   + health disparities + alcohol use and gambling + social and economic development + HIV/AIDS
+Coherence Score: 0.4626
+
+Topic 12: health + aggression and violence + Immigrant and refugee acculturation + family empowerment + racial + cultural competence of school social workers + and success + colorism and social work practice + community-engaged research + Mental health help-seeking behaviors
+Coherence Score: 0.3965
+
+Topic 13: clinical social work + medical social work + Drug abuse + youth illicit drug use + program evaluation + investigate psychological factors that maintain systemic racial inequity that impact health and wellbeing + on the long-term economic well-being of low-income families + justice and corrections + working with survivors of violent crime + Intimate Partner Abuse
+Coherence Score: 0.5371
+
+Topic 14: precarious parental work + Legal Epidemiology + effects of maternal employment and child care on children's cognitive and social and emotional outcomes + and
+protective factors + parental work schedules + subjective well-being + Data Science for Social Good + US Criminal Legal System  + Minority health and health disparities + impact of welfare reform and child care subsidies on families
+Coherence Score: 0.2118
+
+Topic 15: cross-cultural studies + ACES/trauma + child health + SEL + cross-cultural validation of measurements + racial inequity + leadership and organizations + and Quantitative research methods + Indigenous social work + to be healthy
+Coherence Score: 0.4349
+
+Topic 16: African American family health interventions + cancer prevention and survivorship + Mixed Method Measures for Women’s Identity + Corporate and diaspora philanthropy + mental health in subsidized housing + Schooling Outcomes and Processes in Globalization + child maltreatment + Work and Migration and Health outcomes for women + disparities in mental health care + racial and ethnic disparities in health
+Coherence Score: 0.2292
+
+Topic 17: mental health + LGBT populations + Child maltreatment prevention + domestic violence + Young Black Men and Boys + and cardiovascular health + Child and adolescent mental health services research + public health + Distance Education + Health and Healthcare Disparities
+Coherence Score: 0.5223
+
+Topic 18: substance use + health disparity + Maternal and family well-being + Racial disparities in education and health + Internet gambling + kinship among families of African decent + equitable school climate + critical race feminism and intersectionality + intersection of mental health + problem Internet use
+Coherence Score: 0.4210
+
+Topic 19: social policy + HIV/AIDS + international social work + culturally competent research and practice + wellbeing + substance abuse + and caregiving + cross-cultural and cross-national research + Serious mental illness + stigma
+Coherence Score: 0.4183
+
+Topic 20: Water Insecurity in Indigenous Communities + HIV risk behaviors and substance use + teenage pregnancy + intimate partner violence) of behavioral health among refugees and immigrants + social network + Relational (Non-Material) Aspects of Water + barriers to mental health treatment for Black populations + Community-Based Participatory Research (CBPR) + Acculturative Stress + Racial & Ethnic Diversity
+Coherence Score: 0.3701
+
+Topic 21: substance misuse and addictive behaviors + Cross-Cultural Research + state-civil society relations + Food Security and Low-Resource Households + participatory approaches to urban governance and social services with refugees + health disparities among marginalized groups + Global Health + Rights-Based Approaches + multiculturalism + research design and measurements
+Coherence Score: 0.3116
+
+Topic 22: and social welfare + Program Evaluation + racial/ethnic minorities + infant/child mortality + Comparative education for primary and secondary school students + Immigrant and settlement services + Organizational change and evaluation models + research methods + Client Engagement in Services + Cross-national research on social development
+Coherence Score: 0.3435
+
+Topic 23: BIPOC fatherhood engagement and co-equal parenting + family and children's policy + social policy analysis + Community organizing as a therapeutic intervention + Sex Trafficking + poverty and welfare reform + Racial/ethnic disparities in health and access to health care + social capital + anti-racist community engaged research + long term care for aging adults
+Coherence Score: 0.4543
+
+Topic 24: Health Disparities + education + immigration + health education & behavior + Population + Reproductive health  + telemedicine intervention + Social Entrepreneurship + agriculture + family health
+Coherence Score: 0.4360
+
+Topic 25: health disparities + psychosocial resources + Macro + mass incarceration + and embodied research + financial hardship + social program evaluation + human rights of detainees and immigrants + Black youth’s schooling experiences in general + social capital and social movements
+Coherence Score: 0.5056
+
+Topic 26: parenting + STDs + Parenting + delinquency prevention and treatment programs + longitudal data analysis + social work education + mental health + andragogy + cyberbullying + culture value and practice
+Coherence Score: 0.4219
+
+Topic 27: health disparities + homelessness + ontologies + substance abuse + socioeconomic well-being of low-income families or welfare leavers + trauma-related cognitions + Positive psychological protective factors + poverty + empowerment practice + Asset-based social policy
+Coherence Score: 0.4486
+
+Topic 28: international social work + Immigrant and refugee populations + kinship care + Racial stereotypes + Child Welfare,child and family policy + Family violence + popular culture + critical race theory +  Measurement issues in DV and child maltreatment research + anti-racism
+Coherence Score: 0.4562
+
+Topic 29: Community-based research + Muslim Americans + Racial Justice + Youth development among Black youth + Intersectionality + role of death anxiety in suicide and stigma from a terror management theory perspective + particularly among minority populations + Racial & Ethnic Minority Populations + Trauma + Curriculum Development
+Coherence Score: 0.2936
+
+Topic 30: mental health + child maltreatment + dissemination and implementation research + Health Disparities + prevention programs + community based participatory research + parenting programs + culturally responsive practice + out-of-home placement (foster care + qualitative and mixed research
+Coherence Score: 0.4169
+
+Topic 31: social determinants of health + Children + educational and economic disparities + health policy + and sexuality + caregiving + Mental Health + health psychology + post-resettlement challenges + cancer prevention and
+survivorship
+Coherence Score: 0.6124
+
+Topic 32: Mental Health Services + Community-based Research   + critical race + culturally responsive practice + domestic violence + evedince-based practice + intersectional + Development of Evidence-based Interventions + HIV/AIDS Prevention + children
+Coherence Score: 0.4245
+
+Topic 33: mental health + Anti-Colonial Feminist Research + Gender and Women’s Studies + Mass incarceration at the intersections of Human Rights and Mental Health + Research Methods + marginalized groups in global contexts like SOuth Africa + Reproductive Healthcare for Incarcerated Women + Diabetes self-management + health disparities / health equity + Social determinants of health/health disparities
+Coherence Score: 0.3870
+
+Topic 34: HIV/AIDS + Exclusionary immigration policies + and technological factors shape the design and implementation of social policies + interdisciplinary service-learning projects and service learning in an online diversity course + with a focus on contemporary China + cancer screening + vulnerable populations + and how national policies and global development initiatives in turn impact health in/equity + refugees + racism-based trauma
+Coherence Score: 0.4109
+
+Topic 35: ethnicity + and immigration + Global poverty and international aid policy + Ethnic/Racial Identity + age-based power and obstructions to youth sexual rights + community development policy and practice + focusing on income transfer + which itself develops + and romantic partners) when making their sexual decisions. Guiding her research are the central tenets of social development theory which emphasize that individual development occurs within a social and cultural context + and Mental Health and Well-being
+Coherence Score: 0.2996
+
+Topic 36: adolescents + HIV/STI + Social networks and social support + biosocial research + mental health services + Addictions + impact of dicorce on children + working with boys and men + gender minorities + Decolonizing social work
+Coherence Score: 0.4017
+
+Topic 37: Child and family policy + health disparities (HIV/AIDS) + Family and work balance among low-income working families + Equitable access to safety-net programs and its impacts on the well-being of children and families + the long-term impacts of the trafficking experience among survivors of trafficking + humanitarian innovation + Adolescent development + HBCUs + working with latinx families + cross-national development and validation of instruments to identify and assist suspected trafficking survivors
+Coherence Score: 0.3879
+
+Topic 38: Child Welfare + ethnicity (Chinese) + community organizing and participatory action research in immigrant and marginalized communities + Immigrants and Refugees + Aging + Scholarship of Teaching and Learning in Helping Professions + Decolonizing Praxis + culture and ethnicity + Asian American Older Adults + Health Disparity
+Coherence Score: 0.2404
+
+Topic 39: poverty + perfectionism + outreach workers + Aging and health disparities + social work education + thematic analysis + community-based participatory
+action + Intersectionality of sexuality + Support networks + crime control
+Coherence Score: 0.4286
+
+Topic 40: intimate partner violence + home visiting + immigrants + trauma + Behavioral Intervention + African American + sexual assault + Racial Justice + environmental justice + Domestic violence
+Coherence Score: 0.5414
+
+Topic 41: health disparities + Anti-oppressive social work research + work and care challenges for low-income families + late-life mental health care + implementation research + forensic social work + mental illness + practice + Black student achievement + Empowerment-oppressed groups
+Coherence Score: 0.4072
+
+Topic 42: poverty + substance use + social welfare policy + Suicide Prevention and Community Organization + Children and Families + PTSD in Middle Eastern children + Mental Health + anti-oppression practice. social determinants of health + and opioid disorders with marginalized communities + violence agains women and children
+Coherence Score: 0.4731
+
+Topic 43: child welfare + Substance abuse and HIV interventions among health-disparities populations + multiculturalism + gender issues + racen + Police and community relations + antiracist/anti-oppression social work + Educational outcomes and experiences of Latinx undocumented immigrants + Chinese philosophy on modern philanthropy + Critical Race Theory and Latino/a Critical Race Theory
+Coherence Score: 0.4056
+
+Topic 44: intersectionality + implementing evidence-based family-based interventions + child welfare and youth development + evidence-based family interventions + arts-based community development + School desegregation + anti-oppressive social work practice + utilization and quality + transitions + violence-related PTSD
+Coherence Score: 0.4577
+
+Topic 45: inequality + patient-provider communication + immigration and ethnic status + Organizational development. + health care decision making + family violence + aging +  + vulnerable populations + Mental health and mental health disparities among Black women across the life course,
+SES as a social determinant of mental health
+Coherence Score: 0.4599
+
+Topic 46: human trafficking + Race and Ethnic Studies + parenting behavior + family and community levels that support migrant family resilience + Reproductive and Genetic Technologies + The interface of acculturation + strategy and efficiency + and older adults + international social work + changes
+Coherence Score: 0.4923
+
+Topic 47: Emerging Adults + community engagement + immigrant adjustment + and secondary data analysis with large scale data sets + colorism litigation + childhood adversity + bleaching syndrome + human behavior + child protective service training + mitigation and treatment of mentall illness
+Coherence Score: 0.4434
+
+Topic 48: program evaluation + international social work + health disparities + public health + and evaluation research + race and racial disparities + Social determinants of health + classroom pedagogy + Child maltreatment prevention in different communities and cultural settings + The complex effects of out-of-home placements on child mental and behavioral health  
+Coherence Score: 0.1963
+
+Topic 49: domestic and global social work education and administration + Children and family + violence as historical trauma + child welfare + Black women + human rights + elderly + Asian study + womanism + International social work
+Coherence Score: 0.1220
+
+Topic 50: child welfare) + rural social work practice + cultural + transition to adulthood + healthcare + inequality + students with disabilities in higher education + evaluation of program effectiveness + social work education + wellbeing among low-income families
+Coherence Score: 0.2917
